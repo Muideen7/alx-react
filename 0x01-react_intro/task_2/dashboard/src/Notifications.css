@@ -3,11 +3,11 @@
   padding: 5px;
 }
 
-.Notifications li[data-priority="default"] {
+.Notifications ul li[data-priority="default"] {
   color: blue;
 }
 
-.Notifications li[data-priority="urgent"] {
+.Notifications ul li[data-priority="urgent"] {
   color: red;
 }
 
