@@ -19,7 +19,7 @@ function Notifications() {
 		onClick={handleClick}
 		>
 
-		<img src="close-icon.png" alt="Close" />
+		<img src={closeIcon} alt="Close" />
 		</button>
 		{/* ... rest of the content ... */}
 		<p>Here is the list of notifications</p>
